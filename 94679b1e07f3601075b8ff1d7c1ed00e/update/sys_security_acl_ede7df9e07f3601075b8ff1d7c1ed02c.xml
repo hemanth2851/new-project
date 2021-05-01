@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_567910_loan_requ_sfvasgfv</description>
+        <name>x_567910_loan_requ_sfvasgfv</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>ChekkaJayarath.Saikiran@cognizant.com</sys_created_by>
+        <sys_created_on>2021-05-01 04:45:49</sys_created_on>
+        <sys_id>ede7df9e07f3601075b8ff1d7c1ed02c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_567910_loan_requ_sfvasgfv</sys_name>
+        <sys_package display_value="loan request" source="x_567910_loan_requ">94679b1e07f3601075b8ff1d7c1ed00e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="loan request">94679b1e07f3601075b8ff1d7c1ed00e</sys_scope>
+        <sys_update_name>sys_security_acl_ede7df9e07f3601075b8ff1d7c1ed02c</sys_update_name>
+        <sys_updated_by>ChekkaJayarath.Saikiran@cognizant.com</sys_updated_by>
+        <sys_updated_on>2021-05-01 04:45:49</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
