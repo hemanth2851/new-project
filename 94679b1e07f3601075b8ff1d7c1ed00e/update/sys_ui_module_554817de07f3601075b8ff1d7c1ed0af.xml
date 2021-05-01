@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="hemanth">d54817de07f3601075b8ff1d7c1ed0ad</application>
+        <filter/>
+        <name>hemanths</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_567910_loan_requ.hemanth_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>ChekkaJayarath.Saikiran@cognizant.com</sys_created_by>
+        <sys_created_on>2021-05-01 04:47:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>554817de07f3601075b8ff1d7c1ed0af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hemanths</sys_name>
+        <sys_package display_value="loan request" source="x_567910_loan_requ">94679b1e07f3601075b8ff1d7c1ed00e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="loan request">94679b1e07f3601075b8ff1d7c1ed00e</sys_scope>
+        <sys_update_name>sys_ui_module_554817de07f3601075b8ff1d7c1ed0af</sys_update_name>
+        <sys_updated_by>ChekkaJayarath.Saikiran@cognizant.com</sys_updated_by>
+        <sys_updated_on>2021-05-01 04:47:27</sys_updated_on>
+        <table>x_567910_loan_requ_hemanth</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
